@@ -35,6 +35,7 @@
     /* Tambahkan CSS untuk menu-icon */
     .menu-icon {
       display: block;
+        font-size: 15px;
     }
     
     .top-wrapper h1 {
