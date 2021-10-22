@@ -96,10 +96,9 @@ body {
 }
 
 .top-wrapper {
-  padding: 180px 0 100px 0;
+  padding: 200px 0 100px 0;
   background-image:url(https://img.beritasatu.com/cache/beritasatu/910x580-2/301481430953.jpg);
   background-size: cover;
-  height: 500px;
   color:ghostwhite;
   text-align:center;
 }
