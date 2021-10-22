@@ -54,4 +54,12 @@
     footer {
       text-align: center;
     }
+
+    .footer-logo {
+      font-size: 14px;
+    }
+
+    .footer-list {
+      font-size: 12px;
+    }
   }
