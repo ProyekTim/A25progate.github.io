@@ -34,14 +34,6 @@ a {
   float: right;
 }
 
-.menu-icon {
-  display: none;
-  color: white;
-  float: right;
-  font-size: 25px;
-  padding: 21px 0;
-}
-
 header {
   line-height: 70px;
   width: 100%;
