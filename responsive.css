@@ -27,7 +27,11 @@
     .makanan {
       width: 100%;
     }
-       
+    
+    .menu {
+      display: none;
+    }
+
     .top-wrapper {
       text-align: left;
     }
@@ -49,5 +53,6 @@
 
     footer {
       width: 100%;
+      text-align: center;
     }
   }
