@@ -34,6 +34,14 @@ a {
   float: right;
 }
 
+.menu-icon {
+  display: none;
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+}
+
 header {
   line-height: 70px;
   width: 100%;
@@ -96,7 +104,7 @@ body {
 }
 
 .top-wrapper {
-  padding: 180px 0 100px 0;
+  padding: 200px 0 100px 0;
   background-image:url(https://img.beritasatu.com/cache/beritasatu/910x580-2/301481430953.jpg);
   background-size: cover;
   color:ghostwhite;
